@@ -3,7 +3,7 @@
 # VERSION 0.0.4
 
 FROM ubuntu:focal
-MAINTAINER Yandex Load Team <load-public@yandex-team.ru>
+MAINTAINER Yandex Load Team
 # Version for desription
 ARG VERSION
 # You may specify tag instead of branch to build for specific tag
